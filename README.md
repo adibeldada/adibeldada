@@ -34,7 +34,6 @@ I am a second-year Software Engineering student at McMaster University with a st
     alt="GitHub Snake"
   />
 </div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=90&section=footer"/>
 </p>
