@@ -1,3 +1,15 @@
+<div align="center">
+
+<!-- Typing animation -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=00CED1&center=true&vCenter=true&width=600&lines=Hello+World!+This+is+Adib;Welcome+to+my+GitHub!)
+
+<!-- Minimalistic bottom border -->
+![Border](https://dummyimage.com/600x4/00CED1/00CED1)
+
+
+</div>
+
+
 # 💫 About Me:
 I am a second-year Software Engineering student at McMaster University with a strong interest in artificial intelligence and full-stack development. I am proficient in C, Java, and Python, and I enjoy applying my technical skills to solve real-world problems. I value teamwork and collaboration, and I work well in group-based environments where ideas and knowledge are shared.
 
@@ -22,5 +34,9 @@ I am a second-year Software Engineering student at McMaster University with a st
     alt="GitHub Snake"
   />
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=90&section=footer"/>
+</p>
 
 
