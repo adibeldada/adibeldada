@@ -1,3 +1,8 @@
+<dib align="center">
+  
+![snake gif](https://github.com/adibeldada/adibeldada/blob/output/github-snake-dark.svg)
+</div>
+
 # 💫 About Me:
 I am a second-year Software Engineering student at McMaster University with a strong interest in artificial intelligence and full-stack development. I am proficient in C, Java, and Python, and I enjoy applying my technical skills to solve real-world problems. I value teamwork and collaboration, and I work well in group-based environments where ideas and knowledge are shared.
 
