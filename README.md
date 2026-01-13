@@ -25,7 +25,7 @@ I am a second-year Software Engineering student at McMaster University with a st
 # 📊 GitHub Stats:
 <div align="center">
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=adibeldada&theme=dark&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=adibeldada&theme=dark&hide_border=false&cacheSeconds=3600" />
 
   <div align="center">
   <img 
