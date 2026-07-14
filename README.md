@@ -27,7 +27,7 @@ I am a second-year Software Engineering student at McMaster University with a st
 
 <div style="background-color:#0d1117; display:inline-block; padding:10px; border-radius:8px;">
   <img src="https://raw.githubusercontent.com/adibeldada/adibeldada/output/github-snake-dark.svg" height="350" alt="GitHub Snake" style="filter: hue-rotate(200deg) saturate(1.2) brightness(0.75);" />
-  
+</div>
 
 </div>
 
