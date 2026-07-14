@@ -2,10 +2,6 @@
 
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1200&height=50&lines=Hello+World!;Welcome+to+my+GitHub!)
-
-![Border](https://dummyimage.com/1200x4/9D6FE8/9D6FE8)
-
 </div>
 
 
