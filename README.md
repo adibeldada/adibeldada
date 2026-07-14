@@ -4,7 +4,7 @@
 I am a second-year Software Engineering student at McMaster University with a strong interest in artificial intelligence and full-stack development. I am proficient in C, Java, and Python, and I enjoy applying my technical skills to solve real-world problems. I value teamwork and collaboration, and I work well in group-based environments where ideas and knowledge are shared.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Adeeb_El_Dada) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adib-el-dada-164b29346/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adib.eldada@gmail.com)
 
 # 💻 Tech Stack:
