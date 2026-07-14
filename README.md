@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Adib%20El%20Dada&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20McMaster%20University&descAlignY=58&descSize=18" width="100%" />
 
-<div align="center">
 
-# 💫 About Me:
+
+💫 About Me:
 I am a second-year Software Engineering student at McMaster University with a strong interest in artificial intelligence and full-stack development. I am proficient in C, Java, and Python, and I enjoy applying my technical skills to solve real-world problems. I value teamwork and collaboration, and I work well in group-based environments where ideas and knowledge are shared.
 
 
