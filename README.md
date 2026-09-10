@@ -18,8 +18,7 @@ I am a second-year Software Engineering student at McMaster University with a st
 
 <br/>
 
-<img height="180" src="https://streak-stats.demolab.com?user=adibeldada&theme=tokyonight&hide_border=false&border=7C3AED&fire=7C3AED&ring=7C3AED&currStreakLabel=7C3AED" alt="adibeldada's GitHub Streak" />
-&nbsp;&nbsp;
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adibeldada&theme=tokyonight)](https://git.io/streak-stats)
 
 <br/>
 
