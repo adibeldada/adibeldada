@@ -17,11 +17,9 @@ I am a third-year Software Engineering student at McMaster University with a str
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adibeldada&theme=tokyonight)](https://git.io/streak-stats)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adibeldada/adibeldada/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adibeldada/adibeldada/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/adibeldada/adibeldada/output/github-snake-dark.svg" height="350" alt="GitHub Snake" style="margin-top: -40px;" />
-</picture>
+
+![Snake dark](https://raw.githubusercontent.com/adibeldada/adibeldada/output/github-snake-dark.svg#gh-dark-mode-only)
+![Snake light](https://raw.githubusercontent.com/adibeldada/adibeldada/output/github-snake.svg#gh-light-mode-only)
 
 </div>
 
