@@ -22,9 +22,11 @@ I am a third-year Software Engineering student at McMaster University with a str
 
 <br/>
 
-<div style="background-color:#0d1117; display:inline-block; padding:10px; border-radius:8px;">
-  <img src="https://raw.githubusercontent.com/adibeldada/adibeldada/output/github-snake-dark.svg" height="350" alt="GitHub Snake" style="filter: hue-rotate(200deg) saturate(1.2) brightness(0.75);" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adibeldada/adibeldada/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adibeldada/adibeldada/output/github-snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/adibeldada/adibeldada/output/github-snake-dark.svg" height="350" alt="GitHub Snake" />
+</picture>
 
 </div>
 
