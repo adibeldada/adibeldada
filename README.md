@@ -15,12 +15,8 @@ I am a third-year Software Engineering student at McMaster University with a str
 # 📊 GitHub Stats:
 
 <div align="center">
-
-<br/>
-
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adibeldada&theme=tokyonight)](https://git.io/streak-stats)
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adibeldada/adibeldada/output/github-snake-dark.svg" />
