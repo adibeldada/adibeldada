@@ -24,7 +24,7 @@ I am a third-year Software Engineering student at McMaster University with a str
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adibeldada/adibeldada/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adibeldada/adibeldada/output/github-snake-light.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adibeldada/adibeldada/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/adibeldada/adibeldada/output/github-snake-dark.svg" height="350" alt="GitHub Snake" />
 </picture>
 
